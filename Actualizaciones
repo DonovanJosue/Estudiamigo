@@ -1,3 +1,3 @@
 #Aqui abarcaran la información de las actualizaciones que estemos generando y quitando para el futuro
 requerimiento de la aplicación y compatibilidad para los usuarios 
-Añadimos archivos principales para almacenar datos de notas y horarios
+Implementación de métodos para guardar y cargar datos de la agenda desde un archivo, asegurando la persistencia de la información entre sesiones.
