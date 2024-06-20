@@ -1,1 +1,1 @@
-Aquí vamos a adjuntar todo sobre el Diseño
+Aquí vamos a adjuntar todo sobre creamos el inicio con un breve tono de color 0.8.9 y esto lo pusimos hwiwjqlakan prueba del video 
