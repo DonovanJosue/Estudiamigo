@@ -3,3 +3,4 @@ Aquí vamos a adjuntar todo sobre creamos el inicio con un breve tono de color 0
 iniciar la estructura de el login de la agenda que sería usuario y contraseña
 
 Diseño de paleta de colores y tipografía
+Implementar diseños básicos 
