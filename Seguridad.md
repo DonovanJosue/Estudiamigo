@@ -8,3 +8,13 @@ Al guardar contraseñas se agrego una encryptacion en ellas para la seguridad de
 Al entrar un usuario se implemento la validacion del usuario para evitar cualquier tipo de ataques
 Monitoreo y Registro de Actividades para detectar si un usuario a fallado la contraseña y advertir
 implementacion para el trasnporte de datos(informacion)
+
+Gestionar si existieran alguna vulnerabilidad 
+* Comprobar la seguridad regulares para identificar y corregir las vulnerabilidades
+* Realizar actualizaciones para abordar nuevas amenazas 
+* Monitoreo y llevar un registro de actividades para detectar intrusiones
+
+Gestionar, realizar pruebas y Mantenimiento 
+* Se tendrá que hacer pruebas de penetración exhaustivas para una simulación de ataque reales 
+* Implementar un proceso de gestión de vulnerabilidad para corregir las debilidades 
+* Mantener la aplicación en constante mantenimiento 
