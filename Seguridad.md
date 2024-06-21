@@ -6,3 +6,4 @@ implementar un sistema para poder restablecer la contraseña si es que no la rec
 Implementación de Autenticación Multifactor (MFA)
 Al guardar contraseñas se agrego una encryptacion en ellas para la seguridad de los usuarios
 Al entrar un usuario se implemento la validacion del usuario para evitar cualquier tipo de ataques
+Monitoreo y Registro de Actividades para detectar si un usuario a fallado la contraseña y advertir
