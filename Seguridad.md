@@ -10,11 +10,13 @@ Monitoreo y Registro de Actividades para detectar si un usuario a fallado la con
 implementacion para el trasnporte de datos(informacion)
 
 Gestionar si existieran alguna vulnerabilidad 
-* Comprobar la seguridad regulares para identificar y corregir las vulnerabilidades
-* Realizar actualizaciones para abordar nuevas amenazas 
-* Monitoreo y llevar un registro de actividades para detectar intrusiones
+Comprobar la seguridad regulares para identificar y corregir las vulnerabilidades
+Realizar actualizaciones para abordar nuevas amenazas 
+Monitoreo y llevar un registro de actividades para detectar intrusiones
 
 Gestionar, realizar pruebas y Mantenimiento 
-* Se tendrá que hacer pruebas de penetración exhaustivas para una simulación de ataque reales 
-* Implementar un proceso de gestión de vulnerabilidad para corregir las debilidades 
-* Mantener la aplicación en constante mantenimiento 
+Se tendrá que hacer pruebas de penetración exhaustivas para una simulación de ataque reales 
+Implementar un proceso de gestión de vulnerabilidad para corregir las debilidades 
+Mantener la aplicación en constante mantenimiento
+
+se tiene  que definir los requisitos para detectar posibles riesgos 
