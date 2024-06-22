@@ -20,3 +20,5 @@ Implementar un proceso de gestión de vulnerabilidad para corregir las debilidad
 Mantener la aplicación en constante mantenimiento
 
 se tiene  que definir los requisitos para detectar posibles riesgos 
+
+implementar protocolos de seguridad de datos 
