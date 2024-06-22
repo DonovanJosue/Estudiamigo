@@ -22,3 +22,5 @@ Mantener la aplicación en constante mantenimiento
 se tiene  que definir los requisitos para detectar posibles riesgos 
 
 implementar protocolos de seguridad de datos 
+
+hacer una documentación 
