@@ -12,3 +12,4 @@ implementar colores   #b0cd9 para el fondo del login y resaltar el usuario y con
 Creación de una simulación de como sevaría la aplicación 
 iniciamos la estructura del longon que trae el diseño y los campos a llenar
 creamos bocetos preliminares  para la interfaz del usuario. con el final de dar el diseño final
+creación de la paleta de colores y tipografías finales
