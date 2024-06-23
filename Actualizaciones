@@ -2,3 +2,4 @@
 requerimiento de la aplicación y compatibilidad para los usuarios 
 Implementación de métodos para guardar y cargar datos de la agenda desde un archivo, asegurando la persistencia de la información entre sesiones
 Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda
+realizar una implementación donde se pueda ingresar con la huella si lo requiere el usuario 
