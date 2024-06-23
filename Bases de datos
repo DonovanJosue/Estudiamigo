@@ -6,4 +6,5 @@ se probaron el uso de para el registro y login
 
 crear una base de datos donde contenga los cursos que estudiando y llevar un registro de las calificaciones, horario y materias
 
-crear una tabla para almacenar anuncios generales 
+crear una tabla para almacenar anuncios generales
+se crearon las tablas y las relaciones entré cada una
