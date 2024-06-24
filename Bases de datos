@@ -6,6 +6,8 @@ se probaron el uso de para el registro y login
 
 crear una base de datos donde contenga los cursos que estudiando y llevar un registro de las calificaciones, horario y materias
 
+Implementar base de datos en un entorno en la nube para facilitar la conexión con la aplicación
+
 crear una tabla para almacenar anuncios generales
 se crearon las tablas y las relaciones entré cada una
 se crearon las tablas que se encargan de guardar la informacion de horario y notas
