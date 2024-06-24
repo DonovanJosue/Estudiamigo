@@ -15,6 +15,9 @@ Resaltar Campos de Usuario y Contraseña
 
 Añadir mensajes de error para campos de usuario y contraseña si son incorrectos.
 
+Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de usuario.
+
+
 Creación de una simulación de como sevaría la aplicación 
 iniciamos la estructura del longon que trae el diseño y los campos a llenar
 creamos bocetos preliminares  para la interfaz del usuario. con el final de dar el diseño final
