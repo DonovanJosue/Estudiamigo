@@ -33,3 +33,5 @@ creamos bocetos preliminares  para la interfaz del usuario. con el final de dar 
 creación de la paleta de colores y tipografías finales
 
 Selección final de la paleta de colores y tipografías para el diseño 
+
+selección del fondo de pantalla inicial con color principal (#b0cd9).
