@@ -31,4 +31,6 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
  se ajustaron parametros para un uso mas optimo
 
 
-integramos un servicio de envío de correos para restablecimiento de contraseñas.
+integramos un servicio de envío de correos para restablecimiento de contraseñas
+
+Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
