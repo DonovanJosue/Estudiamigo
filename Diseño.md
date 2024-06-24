@@ -45,3 +45,6 @@ Permitir la edición de notas existentes para que los usuarios puedan actualizar
 Añadir opción para eliminar notas de la agenda.
 
 Añadir funcionalidad de búsqueda para encontrar notas específicas.
+
+Permitir a los usuarios crear y gestionar sus propios horarios.
+
