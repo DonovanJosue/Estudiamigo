@@ -41,3 +41,5 @@ selección del fondo de pantalla inicial con color principal (#b0cd9).
 Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su agenda.
 
 Permitir la edición de notas existentes para que los usuarios puedan actualizar la información.
+
+Añadir opción para eliminar notas de la agenda.
