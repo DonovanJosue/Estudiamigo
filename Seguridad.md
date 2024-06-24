@@ -29,3 +29,6 @@ solo para tener más segura la información que se este trabajando
 junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de telefono
  esto ala misma ves mandando un mensaje con un código para verificar o también con el reconocimiento facial.
  se ajustaron parametros para un uso mas optimo
+
+
+integramos un servicio de envío de correos para restablecimiento de contraseñas.
