@@ -8,7 +8,7 @@ Diseño de paleta de colores y tipografía
 Implementar diseños básicos 
 
 implementar colores   #b0cd9 para el fondo del login y resaltar el usuario y contraseña con colores mas fuertes por ejemplo #a8c898
-
+f
 Implementar Color de Fondo del Login
 
 Resaltar Campos de Usuario y Contraseña
