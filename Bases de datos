@@ -12,3 +12,4 @@ se crearon las tablas que se encargan de guardar la informacion de horario y not
 se diseño una forma que por medio de las tablas clasifique las prioridadesy las muestres
 
 Se ha implementado una estructura de tablas para gestionar los horarios de clases 
+se implementó la base de datos a la nube para conectarlo al programa
