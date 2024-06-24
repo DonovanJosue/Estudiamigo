@@ -4,3 +4,4 @@ Implementación de métodos para guardar y cargar datos de la agenda desde un ar
 Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda
 realizar una implementación donde se pueda ingresar con la huella si lo requiere el usuario 
 implementar un método para subir imágenes, fotos y videos en apartado de notas 
+se implemento la optimizacion dentro de la aplicaion, lo que permite que funcione de forma mas fluida 
