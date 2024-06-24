@@ -21,6 +21,7 @@ Integrar el formulario de login con la base de datos para la verificación de us
 
 Implementar la funcionalidad de 'Recordar Usuario' para que los usuarios no tengan que ingresar sus datos de nuevo.
 
+Añadir funcionalidad para restablecimiento de contraseña en caso de olvido.
 
 
 Creación de una simulación de como sevaría la aplicación 
