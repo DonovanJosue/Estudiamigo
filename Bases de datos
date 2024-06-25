@@ -19,3 +19,7 @@ se implementó la base de datos a la nube para conectarlo al programa
 se realiza una conexión entre las tablas de horarios de clase y la nube 
 
 Implementación de desencadenadores (triggers) para realizar acciones automáticas en respuesta a eventos de la base de datos.
+
+
+
+Capacidad para realizar consultas complejas.
