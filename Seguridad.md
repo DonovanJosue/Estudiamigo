@@ -34,3 +34,7 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+
+
+Tiene un apartado especial el cual es único para tareas de igual manera podemos modificar los colores y al mismo tiempo editar ("escribir el número de tarea la fecha y tema") 
