@@ -49,3 +49,6 @@ Añadir funcionalidad de búsqueda para encontrar notas específicas.
 
 Permitir a los usuarios crear y gestionar sus propios horarios.
 
+
+gracias alos colores RGB podemos dar vida cada apartado de nuestro horario,y prioridades 
+
