@@ -34,3 +34,7 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+
+estudiamigo tiene como parte esencial un horario de clases el cual podemos poner colores ya sea por medio de rgb o normal (seleccionando el color) 
+ 
