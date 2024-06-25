@@ -34,3 +34,6 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+
+en el apartado de  afirmacion no podremos modificar nada sola mente seleccionamos afirmacion o conclucido al recordatorio que programamos ala lista diaria es como un chekbox el cual sola mente palomeamos lo que ya este hecho 
