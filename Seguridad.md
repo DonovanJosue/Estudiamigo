@@ -34,3 +34,5 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+tenemos que buscar una  forma que sea llamativo y atractivo para los usuarios. 
