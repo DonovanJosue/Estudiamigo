@@ -34,3 +34,6 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+
+en cuanto al recordario solo podemos modificar los horios,dias,mes,año y hora y por ultimo el apartado de prioridades el cual nos avisa la prioridad que tengamos en el mes o dia.
