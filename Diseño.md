@@ -49,3 +49,4 @@ Añadir funcionalidad de búsqueda para encontrar notas específicas.
 
 Permitir a los usuarios crear y gestionar sus propios horarios.
 
+y junto con  ello ajustar y diseñar de forma más atractiva la ventana de prioridades y recordatorios 
