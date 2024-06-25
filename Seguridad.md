@@ -34,3 +34,6 @@ junto con la autenticacion de 2 pasos ya que se puede vincular con el numero de 
 integramos un servicio de envío de correos para restablecimiento de contraseñas
 
 Configuraciones de alertas de seguridad para monitoreo continuo de la aplicación 
+
+
+por ultimo tiene 4 apartados los cuales son afirmacion,una lista diaria,recordatorios y prioridades 
