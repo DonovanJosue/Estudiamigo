@@ -1,4 +1,4 @@
-#Aqui abarcaran la información de las actualizaciones que estemos generando y quitando para el futuro
+t#Aqui abarcaran la información de las actualizaciones que estemos generando y quitando para el futuro
 requerimiento de la aplicación y compatibilidad para los usuarios 
 Implementación de métodos para guardar y cargar datos de la agenda desde un archivo, asegurando la persistencia de la información entre sesiones
 Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda
@@ -15,3 +15,7 @@ También puedes leer las reseñas de las actualizaciones para ver lo que otros u
 
 la aplicación tenga compatibilidad entre varios sistemas operativos 
 la aplicación ya funciona y se actualiza en tiempo real
+
+
+
+la actualización de una agenda digital debe ser un proceso participativo, integral y prospectivo
