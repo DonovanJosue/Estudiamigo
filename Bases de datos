@@ -33,5 +33,7 @@ hacer restricciones en las tablas
 
 En definitiva, el diseño de una base de datos eficiente para nuestra  agenda digital es crucial para garantizar el correcto funcionamiento de la aplicación y la satisfacción de los usuarios.
 
+Cambiamos el tipo de dato de la contraseña, de ser Int a ser Varchar, para tener un rango mas amplio de contraseñas
+
 
 
