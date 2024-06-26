@@ -28,9 +28,6 @@ Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su age
 
 Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su agenda.
 
-
-Creación de una simulación de como sevaría la aplicación 
-
 iniciamos la estructura del longin que trae el diseño y los campos a llenar
 
 creamos bocetos preliminares  para la interfaz del usuario. con el final de dar el diseño final
