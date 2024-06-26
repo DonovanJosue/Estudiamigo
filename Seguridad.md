@@ -40,3 +40,5 @@ estudiamigo tiene como parte esencial un horario de clases el cual podemos poner
  se le añadió seguridad a la base de datos como restricciones de integridad y políticas de seguridad)
 
 Usar el almacenamiento cifrado de android para guardar datos sensibles
+
+Implementación de encriptación de contraseñas y datos sensibles para mejorar la seguridad.
