@@ -52,3 +52,4 @@ Permitir a los usuarios crear y gestionar sus propios horarios.
 
 la selección de colores en cada apartado para dar la formalidad y tenuacion con los colores RGB
 se añadieron más diseños para que le usuario pueda escoger el que más le guste
+se agregaron opciones con diseños para que el usuario escoja el que sea de su agradó 
