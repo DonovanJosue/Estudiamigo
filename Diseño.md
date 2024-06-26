@@ -21,7 +21,7 @@ Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de
 
 Integrar el formulario de login con la base de datos para la verificación de usuarios.
 
-Implementar la funcionalidad de 'Recordar Usuario' para que los usuarios no tengan que ingresar sus datos de nuevo.
+Implementar la funcionalidad de 'Recordar Usuario' para que los usuarios no tengan que ingresar sus datos de nuevo
 
 Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su agenda.
 
