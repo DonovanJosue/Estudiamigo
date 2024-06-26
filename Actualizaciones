@@ -1,7 +1,7 @@
 #Aqui abarcaran la información de las actualizaciones que estemos generando y quitando para el futuro
 requerimiento de la aplicación y compatibilidad para los usuarios 
 Implementación de métodos para guardar y cargar datos de la agenda desde un archivo, asegurando la persistencia de la información entre sesiones
-Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda
+Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda.
 realizar una implementación donde se pueda ingresar con la huella si lo requiere el usuario 
 implementar un método para subir imágenes, fotos y videos en apartado de notas 
 se implemento la optimizacion dentro de la aplicaion, lo que permite que funcione de forma mas fluida 
