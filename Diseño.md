@@ -11,8 +11,8 @@ implementar colores   #b0cd9 para el fondo del login y resaltar el usuario y con
 
 Implementar Color de Fondo del Login.
 
+Resaltar Campos de Usuario y Contraseña.
 
-Resaltar Campos de Usuario y Contraseña
 
 Añadir mensajes de error para campos de usuario y contraseña si son incorrectos.
 
