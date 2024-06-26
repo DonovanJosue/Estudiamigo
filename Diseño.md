@@ -58,3 +58,5 @@ se añadieron más diseños para que le usuario pueda escoger el que más le gus
 se agregaron opciones con diseños para que el usuario escoja el que sea de su agradó 
 
 se cambió el diseño a los botones para que resalten mas
+
+Se cambiara ll fuente para tener alguna mas llamativa para la vista por las encuestas que realizamos con algunos socios
