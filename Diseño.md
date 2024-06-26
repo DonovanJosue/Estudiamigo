@@ -19,7 +19,7 @@ Añadir mensajes de error para campos de usuario y contraseña si son incorrecto
 
 Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de usuario.
 
-Integrar el formulario de login con la base de datos para la verificación de usuarios.
+Integrar el formulario de login con la base de datos para la verificación de usuarios
 
 Implementar la funcionalidad de 'Recordar Usuario' para que los usuarios no tengan que ingresar sus datos de nuevo.
 
