@@ -42,7 +42,6 @@ Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su age
 
 Permitir la edición de notas existentes para que los usuarios puedan actualizar la información.
 
-
 Añadir opción para eliminar notas de la agenda
 
 Añadir funcionalidad de búsqueda para encontrar notas específicas
@@ -59,3 +58,5 @@ se cambió el diseño a los botones para que resalten mas
 Se cambiara ll fuente para tener alguna mas llamativa para la vista por las encuestas que realizamos con algunos socios
 
 Implementamos las animaciones de los botones y algunas ventanas al proyecto
+
+Se creo los sonidos para las funciones como enviar mensaje o a la ora de activar algún botón para que sea mas dinámica la aplicacion
