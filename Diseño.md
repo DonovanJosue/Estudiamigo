@@ -14,7 +14,7 @@ Implementar Color de Fondo del Login.
 Resaltar Campos de Usuario y Contraseña.
 
 
-Añadir mensajes de error para campos de usuario y contraseña si son incorrectos.
+Añadir mensajes de error para campos de usuario y contraseña si son incorrectos
 
 Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de usuario.
 
