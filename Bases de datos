@@ -22,4 +22,9 @@ Implementación de desencadenadores (triggers) para realizar acciones automátic
 
 
 
-Capacidad para realizar consultas complejas.
+
+
+El tamaño y la complejidad de la agenda
+Los tipos de datos que se almacenar
+Las operaciones que se realizan con los datos
+Los requisitos de rendimiento y escalabilidad
