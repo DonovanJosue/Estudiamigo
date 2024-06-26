@@ -52,3 +52,6 @@ Permitir a los usuarios crear y gestionar sus propios horarios.
 
 la selección de colores en cada apartado para dar la formalidad y tenuacion con los colores RGB
 se añadieron más diseños para que le usuario pueda escoger el que más le guste
+
+
+el diseño de la agenda digital debe ser un proceso iterativo o llamativo el cual  tenga en cuenta las necesidades de los usuarios y los principios de diseño de software.
