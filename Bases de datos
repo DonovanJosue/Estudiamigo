@@ -30,3 +30,4 @@ Las operaciones que se realizan con los datos
 Los requisitos de rendimiento y escalabilidad
 
 hacer restricciones en las tablas 
+se realizan las operaciones con los datos (consultas, inserciones, actualizaciones y eliminar)
