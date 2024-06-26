@@ -16,4 +16,6 @@ También puedes leer las reseñas de las actualizaciones para ver lo que otros u
 la aplicación tenga compatibilidad entre varios sistemas operativos 
 la aplicación ya funciona y se actualiza en tiempo real
 
-se implementó una forma de recuperar notas de dado caso si el usuario lo requiere 
+se implementó una forma de recuperar notas de dado caso si el usuario lo requiere
+
+Trabajamos en el error del inicio de sesión, no generana la confirmación a su correo electrónico
