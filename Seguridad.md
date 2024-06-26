@@ -42,3 +42,6 @@ estudiamigo tiene como parte esencial un horario de clases el cual podemos poner
 Usar el almacenamiento cifrado de android para guardar datos sensibles
 
 Implementación de mecanismos de respaldo y recuperación de datos.
+
+Implementación de funcionalidad de copia de seguridad automática para asegurar la persistencia de los datos
+
