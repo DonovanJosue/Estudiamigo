@@ -60,3 +60,5 @@ se agregaron opciones con diseños para que el usuario escoja el que sea de su a
 se cambió el diseño a los botones para que resalten mas
 
 Se cambiara ll fuente para tener alguna mas llamativa para la vista por las encuestas que realizamos con algunos socios
+
+Implementamos las animaciones de los botones y algunas ventanas al proyecto
