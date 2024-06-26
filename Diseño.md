@@ -17,7 +17,7 @@ Resaltar Campos de Usuario y Contraseña.
 Añadir mensajes de error para campos de usuario y contraseña si son incorrectos
 
 
-Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de usuario.
+Añadir iconos a los campos de usuario y contraseña para mejorar la interfaz de usuario
 
 Integrar el formulario de login con la base de datos para la verificación de usuarios.
 
