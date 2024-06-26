@@ -52,3 +52,5 @@ Permitir a los usuarios crear y gestionar sus propios horarios.
 
 la selección de colores en cada apartado para dar la formalidad y tenuacion con los colores RGB
 se añadieron más diseños para que le usuario pueda escoger el que más le guste
+
+El diseño de nuestra agenda digital debe considerar tanto la funcionalidad como la estética para crear una experiencia de usuario agradable y productiva.
