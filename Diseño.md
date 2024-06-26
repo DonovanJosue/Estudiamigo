@@ -25,8 +25,6 @@ Implementar la funcionalidad de 'Recordar Usuario' para que los usuarios no teng
 
 Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su agenda.
 
-Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su agenda.
-
 
 Creación de una simulación de como sevaría la aplicación 
 
