@@ -46,7 +46,7 @@ Añadir funcionalidad para que los usuarios puedan agregar nuevas notas a su age
 Permitir la edición de notas existentes para que los usuarios puedan actualizar la información.
 
 
-Añadir opción para eliminar notas de la agenda.
+Añadir opción para eliminar notas de la agenda
 
 Añadir funcionalidad de búsqueda para encontrar notas específicas
 
