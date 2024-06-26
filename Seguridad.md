@@ -38,3 +38,5 @@ Configuraciones de alertas de seguridad para monitoreo continuo de la aplicació
 
 estudiamigo tiene como parte esencial un horario de clases el cual podemos poner colores ya sea por medio de rgb o normal (seleccionando el color) 
  se le añadió seguridad a la base de datos como restricciones de integridad y políticas de seguridad)
+
+Usar el almacenamiento cifrado de android para guardar datos sensibles
