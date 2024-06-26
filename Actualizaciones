@@ -3,7 +3,7 @@ requerimiento de la aplicación y compatibilidad para los usuarios
 Implementación de métodos para guardar y cargar datos de la agenda desde un archivo, asegurando la persistencia de la información entre sesiones
 Se añadieron notificaciones visuales para alertar al usuario sobre eventos próximos configurados en la agenda
 realizar una implementación donde se pueda ingresar con la huella si lo requiere el usuario 
-implementar un método para subir imágenes, fotos y videos en apartado de notas 
+ 
 se implemento la optimizacion dentro de la aplicaion, lo que permite que funcione de forma mas fluida 
 se actualizo el funcionamiento del horario para que funcione de una forma más interactiva
 
@@ -19,3 +19,5 @@ la aplicación ya funciona y se actualiza en tiempo real
 se implementó una forma de recuperar notas de dado caso si el usuario lo requiere
 
 Trabajamos en el error del inicio de sesión, no generana la confirmación a su correo electrónico
+
+implementar un método para subir imágenes, fotos y videos en apartado de notas 
